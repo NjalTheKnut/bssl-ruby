@@ -1,0 +1,22 @@
+{
+  "name": "bssl-nodejs",
+  "version": "1.0.0",
+  "description": "BSSL.us",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjalTheKnut/BSSL.git"
+  },
+  "author": "NJR/BSSL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjalTheKnut/BSSL/issues"
+  },
+  "homepage": "https://github.com/NjalTheKnut/BSSL#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
