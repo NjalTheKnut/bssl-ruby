@@ -1,5 +1,9 @@
 {
   "name": "bssl",
   "private": true,
+  "scripts": {
+    "start": "bin/rails server"
+  },
   "dependencies": {}
+
 }
